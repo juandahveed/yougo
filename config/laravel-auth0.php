@@ -10,7 +10,7 @@ return array(
     |
     */
 
-     'domain'        => 'localhost',
+     'domain'        => 'emergecode.auth0.com',
     /*
     |--------------------------------------------------------------------------
     |   Your APP id

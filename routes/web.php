@@ -20,7 +20,7 @@ Route::get('/login', function(){
 })->name('login');
 
 Route::get('/auth0/callback', function() {
-   dd(Auth0::getUser());
+//   dd(Auth0::getUser());
 });
 
 Route::get('/logout', function() {
